@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shanila Nehlin</h1>
+<h1 align="center">Hi, I'm Shanila Nehlin</h1>
 <h3 align="center">A passionate Artist with hopes of becoming a Frontend Developer in the future.</h3>
 <img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/GlisteningAggravatingJunebug-max-1mb.gif">
 
