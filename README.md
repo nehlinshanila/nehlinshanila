@@ -2,13 +2,15 @@
 <h3 align="center">A passionate Artist with hopes of becoming a Web Developer in the future.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehlinshanila&label=Profile%20views&color=E75480&style=flat" alt="nehlinshanila" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nehlinshanila" alt="nehlinshanila" /></a> </p>
+
 <img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/GlisteningAggravatingJunebug-max-1mb.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **building my Portfolio website**
+- 🔭 I’m currently working on **starting to build a personal portfolio website**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 🤝 I’m looking for help with **Php**
 
