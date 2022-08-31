@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Artist with hopes of becoming a Web Developer in the future.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehlinshanila&label=Profile%20views&color=E75480&style=flat" alt="nehlinshanila" /> </p>
-
 <img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/GlisteningAggravatingJunebug-max-1mb.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
