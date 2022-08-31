@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **starting to build a personal portfolio website**
+- 🔭 I’m currently working on **building a personal portfolio website**
 
 - 🌱 I’m currently learning **MERN Stack**
 
