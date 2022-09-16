@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shanila Nehlin</h1>
-<h3 align="center">A passionate Artist with hopes of becoming a Web Developer in the future.</h3>
+<h3 align="center">An Artist with hopes of becoming a Web Developer in the future.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehlinshanila&label=Profile%20views&color=E75480&style=flat" alt="nehlinshanila" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nehlinshanila" alt="nehlinshanila" /></a> </p>
