@@ -1,3 +1,4 @@
+![logo](https://github.com/nehlinshanila/nehlinshanila/blob/main/v627-aew-41-technologybackground.jpg)
 <h1 align="center">Hi, I'm Shanila Nehlin</h1>
 <h3 align="center">An Artist with hopes of becoming a Web Developer in the future.</h3>
 
