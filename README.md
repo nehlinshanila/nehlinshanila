@@ -1,5 +1,5 @@
 ![logo](https://github.com/nehlinshanila/nehlinshanila/blob/main/v627-aew-41-technologybackground.jpg)
-<h1 align="center">Hi, I'm Shanila Nehlin</h1>
+<h2 align="center">Shanila Nehlin</h2>
 <h3 align="center">An Artist with hopes of becoming a Web Developer in the future.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehlinshanila&label=Profile%20views&color=E75480&style=flat" alt="nehlinshanila" /> </p>
@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on **building a personal portfolio website**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **React**
 
-- 🤝 I’m looking for help with **Php**
+- 🤝 I’m looking for help with **Javascript**
 
 - 📫 How to reach me **nehlinshanila@gmail.com**
 
