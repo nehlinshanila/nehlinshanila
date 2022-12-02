@@ -37,7 +37,7 @@
  
 # 📊 GitHub Stats:
 
- <img align="right" alt="coding" height= "500" width="400" src="OvZ.gif">
+ <img align="right" alt="coding" height= "500" width="300" src="OvZ.gif">
  
 ![](https://github-readme-stats.vercel.app/api?username=nehlinshanila&theme=omni&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nehlinshanila&theme=omni&hide_border=true)<br/>
