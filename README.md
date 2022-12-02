@@ -42,13 +42,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=nehlinshanila&theme=omni&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nehlinshanila&theme=omni&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nehlinshanila&theme=omni&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-<img align="right" alt="coding" height= "200" width="300" src="https://thumbs.gfycat.com/BigGranularLamprey.webp">
-
-
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<img align="right" alt="coding" height= "200" width="300" src="https://thumbs.gfycat.com/BigGranularLamprey.webp">
 
 ---
