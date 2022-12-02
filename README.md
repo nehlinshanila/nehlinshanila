@@ -45,6 +45,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<img align="right" alt="coding" height= "200" width="300" src="https://thumbs.gfycat.com/BigGranularLamprey.webp">
+<img align="right" alt="coding" height= "100" width="200" src="https://thumbs.gfycat.com/BigGranularLamprey.webp">
 
 ---
