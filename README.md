@@ -1,5 +1,4 @@
-![logo](https://github.com/nehlinshanila/nehlinshanila/blob/main/v627-aew-41-technologybackground.jpg)
-<h2 align="center">Shanila Nehlin</h2>
+<h2 align="center">Hi, I'm Shanila Nehlin</h2>
 <h3 align="center">An Artist with hopes of becoming a Web Developer in the future.</h3>
 
 
@@ -38,12 +37,13 @@
  
 # 📊 GitHub Stats:
 
- <img align="right" alt="coding" height= "300" width="500" src="https://i.gifer.com/STRq.gif">
+ <img align="right" alt="coding" height= "500" width="400" src="OvZ.gif">
  
 ![](https://github-readme-stats.vercel.app/api?username=nehlinshanila&theme=omni&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nehlinshanila&theme=omni&hide_border=true)<br/>
-<img align="right" alt="coding" height= "200" width="300" src="https://thumbs.gfycat.com/BigGranularLamprey.webp">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nehlinshanila&theme=omni&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<img align="right" alt="coding" height= "200" width="300" src="https://thumbs.gfycat.com/BigGranularLamprey.webp">
+
 
 
 
