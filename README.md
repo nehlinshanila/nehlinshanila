@@ -20,7 +20,6 @@
 <a href="https://www.hackerrank.com/shanila_nehlin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shanila_nehlin" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/shanila.nehlin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shanila.nehlin" height="30" width="40" /></a>
 <a href="https://discord.gg/shanila#8501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shanila#8501" height="30" width="40" /></a>
-
 </p>
 
 
