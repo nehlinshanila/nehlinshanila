@@ -38,11 +38,14 @@
  
 # 📊 GitHub Stats:
 
- <img align="right" alt="coding" height= "500" width="300" src="OvZ.gif">
- 
-![](https://github-readme-stats.vercel.app/api?username=nehlinshanila&theme=omni&hide_border=true&include_all_commits=true&count_private=true)<br/>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nehlinshanila&show_icons=true&theme=synthwave&hide_border=true&locale=en&layout=compact" alt="nehlinshanila" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nehlinshanila&show_icons=true&theme=synthwave&hide_border=true&locale=en" alt="nehlinshanila" /></p>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nehlinshanila&theme=omni&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nehlinshanila&theme=omni&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
