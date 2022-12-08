@@ -41,7 +41,7 @@
 
 # 📊 GitHub Stats:
 
-<img align="right" alt="coding" height= "450" width="450" src="giphy.gif"><br/>
+<img align="right" alt="coding" height= "300" width="280" src="giphy.gif"><br/>
 ![](https://github-readme-stats.vercel.app/api?username=nehlinshanila&theme=omni&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nehlinshanila&theme=omni&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nehlinshanila&theme=omni&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
@@ -52,6 +52,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<img align="right" alt="coding" height= "150" width="300" src="https://thumbs.gfycat.com/BigGranularLamprey.webp">
+<img align="right" alt="coding" height= "100" width="200" src="https://thumbs.gfycat.com/BigGranularLamprey.webp">
 
 ---
