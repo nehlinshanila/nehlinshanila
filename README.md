@@ -36,19 +36,22 @@
  
 
  
+
+
+
 # 📊 GitHub Stats:
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nehlinshanila&show_icons=true&theme=synthwave&hide_border=true&locale=en&layout=compact" alt="nehlinshanila" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nehlinshanila&show_icons=true&theme=synthwave&hide_border=true&locale=en" alt="nehlinshanila" /></p>
-
+<img align="right" alt="coding" height= "450" width="450" src="giphy.gif"><br/>
+![](https://github-readme-stats.vercel.app/api?username=nehlinshanila&theme=omni&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nehlinshanila&theme=omni&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nehlinshanila&theme=omni&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+
+
 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<img align="right" alt="coding" height= "100" width="200" src="https://thumbs.gfycat.com/BigGranularLamprey.webp">
+<img align="right" alt="coding" height= "150" width="300" src="https://thumbs.gfycat.com/BigGranularLamprey.webp">
 
 ---
