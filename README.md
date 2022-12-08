@@ -41,7 +41,7 @@
 
 # 📊 GitHub Stats:
 
-<img align="right" alt="coding" height= "320" width="300" src="giphy.gif"><br/>
+<img align="right" alt="coding" height= "340" width="320" src="giphy.gif"><br/>
 ![](https://github-readme-stats.vercel.app/api?username=nehlinshanila&theme=omni&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nehlinshanila&theme=omni&hide_border=true)<br/>
 <img align="right" alt="coding" height= "120" width="210" src="https://thumbs.gfycat.com/BigGranularLamprey.webp">
