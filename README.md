@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Shanila Nehlin</h2>
-<h3 align="center">An Artist with hopes of becoming a Web Developer in the future.</h3>
+<h3 align="center">Learning everyday.</h3>
 
 
 # 💫 About Me:
