@@ -2,28 +2,16 @@
 ![snake gif](https://github.com/nehlinshanila/nehlinshanila/blob/output/github-contribution-grid-snake.svg)
 
 <h2 align="center">Hi, I'm Shanila Nehlin</h2>
-<h3 align="center">Learning everyday.</h3>
+<h4 align="left">
+I'm a junior year CSE student trying to gain sufficient knowledge in the programming field. I'm learning each and everyday and my current goal is to be proficient and to construct multiple projects related to Web-development and AI.
+</h4>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nehlinshanila&show_icons=true&theme=synthwave&title_color=fea9f7&text_color=a8b7ff&bg_color=110d17&hide_border=true&locale=en&layout=compact" alt="nehlinshanila" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nehlinshanila&show_icons=true&theme=dracula&title_color=fea9f7&text_color=a8b7ff&bg_color=0f0d17&hide_border=true&locale=en" alt="nehlinshanila" /></p>
-
-
-
-# 💫 About Me:
-
-<img align="right" alt="coding" height= "300" width="500" src="https://media3.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=790b76116747176956c66e86c0bb32009e660c7155a966ef&rid=giphy.gif&ct=g">
-
-🔭 I’m currently working on building a personal portfolio website<br><br>🌱 I’m currently learning React<br><br>🤝 I’m looking for help with Javascript<br><br>📫 How to reach me nehlinshanila@gmail.com<br><br>⚡ Fun fact I'm kinda good at Art
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nehlinshanila&label=Profile%20views&color=E75480&style=flat" alt="nehlinshanila" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nehlinshanila&show_icons=true&theme=synthwave&title_color=fea9f7&text_color=a8b7ff&bg_color=110d17&hide_border=true&locale=en&layout=compact" alt="nehlinshanila" width="300" height="110"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nehlinshanila&show_icons=true&theme=dracula&title_color=fea9f7&text_color=a8b7ff&bg_color=0f0d17&hide_border=true&locale=en" alt="nehlinshanila" width="320" height="120"/></p>
 
 
 
-
-
-
-<h2>💻 Tech Stack:</h2>
+<h3>💻Skills:</h3>
 
 <h4>Programming Languages & Backend Development : 
 C <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/> </a> 
@@ -64,26 +52,15 @@ C <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
 </h4>
 
  
- <h2>🧷 Connect With Me:</h2>
+ <h2>🧷Connect With Me:</h2>
 <h4 align="left">
-Linkedin <a href="https://linkedin.com/in/nehlinshanila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nehlinshanila" height="30" width="30" /></a>
-Facebook <a href="https://www.facebook.com/shanila.nehlin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shanila.nehlin" height="30" width="30" /></a>
-Instagram <a href="https://www.instagram.com/nehlinstudio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nehlinstudio/" height="30" width="30" /></a>
-Hackerrank <a href="https://www.hackerrank.com/shanila_nehlin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shanila_nehlin" height="30" width="30" /></a>
-Codeforces <a href="https://codeforces.com/profile/shanila.nehlin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shanila.nehlin" height="30" width="30" /></a>
-Discord <a href="https://discord.gg/shanila#8501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shanila#8501" height="30" width="30" /></a>
+Linkedin <a href="https://linkedin.com/in/nehlinshanila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nehlinshanila" height="20" width="20" /></a>
+Facebook <a href="https://www.facebook.com/shanila.nehlin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shanila.nehlin" height="20" width="20" /></a>
+Instagram <a href="https://www.instagram.com/nehlinstudio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nehlinstudio/" height="20" width="20" /></a>
+Hackerrank <a href="https://www.hackerrank.com/shanila_nehlin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shanila_nehlin" height="20" width="20" /></a>
+Codeforces <a href="https://codeforces.com/profile/shanila.nehlin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shanila.nehlin" height="20" width="20" /></a>
+Discord <a href="https://discord.gg/shanila#8501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shanila#8501" height="20" width="20" /></a>
 </h4>
  
-
-
-
-
-
-# 📊 GitHub Stats:
-
 <img align="right" alt="coding" height= "340" width="320" src="giphy.gif"><br/>
 <img align="right" alt="coding" height= "120" width="210" src="https://thumbs.gfycat.com/BigGranularLamprey.webp">
-
-
-
----
