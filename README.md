@@ -12,8 +12,6 @@ I'm a junior year CSE student trying to gain sufficient knowledge in the program
 
 
 
-<h3>💻Skills:</h3>
-
 <h4>Programming Languages & Backend Development : 
 C <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/> </a> 
  C++ <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> </a> 
@@ -53,8 +51,7 @@ C <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
 </h4>
 
  
- <h3>🧷Connect With Me:</h3>
-<h4 align="left">
+<h4 align="left">🧷Connect With Me : 
 Linkedin <a href="https://linkedin.com/in/nehlinshanila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nehlinshanila" height="20" width="20" /></a>
 Facebook <a href="https://www.facebook.com/shanila.nehlin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shanila.nehlin" height="20" width="20" /></a>
 Instagram <a href="https://www.instagram.com/nehlinstudio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nehlinstudio/" height="20" width="20" /></a>
