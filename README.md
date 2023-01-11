@@ -1,7 +1,7 @@
 
 ![snake gif](https://github.com/nehlinshanila/nehlinshanila/blob/output/github-contribution-grid-snake.svg)
 
-<h2 align="center">Hi, I'm Shanila Nehlin</h2>
+<h2 align="center">Hi, I'm Shanila Nehlin</h2> 
 <h4 align="left">
 I'm a junior year CSE student trying to gain sufficient knowledge in the programming field. I'm learning each and everyday and my current goal is to be proficient and to construct multiple projects related to Web-development and AI.
 </h4>
@@ -49,6 +49,8 @@ C <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
  MySql <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> </a> 
  Git <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/> </a> 
 </h4>
+
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehlinshanila&label=Profile%20views&color=ad439f&style=flat" alt="nehlinshanila" /> </p>
 
  
 <h4 align="left">🧷Connect With Me : 
