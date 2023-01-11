@@ -20,8 +20,6 @@ C <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
  Php <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="20" height="20"/> </a> 
   Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> 
 </h4>
- 
-
 <h4>Frontend Development :
  ReactJs <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> </a>
  Bootstrap<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="20" height="20"/> </a> 
@@ -30,29 +28,20 @@ C <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
  ThreeJs <a href="https://www.w3.org/threejs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original-wordmark.svg" alt="threejs" width="20" height="20"/> </a> 
  Sass <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="20" height="20"/> </p>
 </h4>
-
-
-
 <h4>Framework :
  Django <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="20" height="20"/>
 </h4>
-
 <h4>Software :
  Blender <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="20" height="20"/> </a> 
  Illustrator <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="20" height="20"/> </a> 
  Photoshop <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="20" height="20"/> </a> 
  Sketch <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="20" height="20"/> </a> Procreate </p>
- 
 </h4>
-
 <h4>Database & Others :
  MySql <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> </a> 
  Git <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/> </a> 
 </h4>
-
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehlinshanila&label=Profile%20views&color=ad439f&style=flat" alt="nehlinshanila" /> </p>
-
- 
 <h4 align="left">🧷Connect With Me : 
 Linkedin <a href="https://linkedin.com/in/nehlinshanila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nehlinshanila" height="20" width="20" /></a>
 Facebook <a href="https://www.facebook.com/shanila.nehlin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shanila.nehlin" height="20" width="20" /></a>
