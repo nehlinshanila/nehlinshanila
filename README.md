@@ -6,8 +6,11 @@
 I'm a junior year CSE student trying to gain sufficient knowledge in the programming field. I'm learning each and everyday and my current goal is to be proficient and to construct multiple projects related to Web-development and AI.
 </h4>
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nehlinshanila&show_icons=true&theme=synthwave&title_color=fea9f7&text_color=a8b7ff&bg_color=110d17&hide_border=true&locale=en&layout=compact" alt="nehlinshanila" width="300" height="110"/></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nehlinshanila&show_icons=true&theme=dracula&title_color=fea9f7&text_color=a8b7ff&bg_color=0f0d17&hide_border=true&locale=en" alt="nehlinshanila" width="320" height="120"/></p>
+
 <p><img align="right" alt="coding" height= "70" width="110" src="https://thumbs.gfycat.com/BigGranularLamprey.webp"></p>
 
 
