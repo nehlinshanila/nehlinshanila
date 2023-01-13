@@ -1,7 +1,13 @@
 ![snake gif](https://github.com/nehlinshanila/nehlinshanila/blob/output/github-contribution-grid-snake.svg)
-<p><img align="right" alt="coding" height= "70" width="110" src="https://thumbs.gfycat.com/BigGranularLamprey.webp"></p>
 
 _Hi, I'm ___Shanila Nehlin___, a junior year CSE student trying to gain sufficient knowledge in the programming field. I'm learning each and everyday and my current goal is to be proficient and to construct multiple projects related to Web-development and AI. I stockpile all my projects in github for future reference._
+
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=nehlinshanila&show_icons=true&theme=synthwave&title_color=fea9f7&text_color=a8b7ff&bg_color=110d17&hide_border=true&locale=en&layout=compact" alt="nehlinshanila" width="300" height="110"/>
+
+&nbsp;<img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nehlinshanila&show_icons=true&theme=dracula&title_color=fea9f7&text_color=a8b7ff&bg_color=0f0d17&hide_border=true&locale=en" alt="nehlinshanila" width="300" height="110"/></p>
+
+<p><img align="right" alt="coding" height= "70" width="110" src="https://thumbs.gfycat.com/BigGranularLamprey.webp"></p>
+
 
 - **Programming Languages & Backend Development :**
  ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
