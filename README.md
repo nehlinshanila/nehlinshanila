@@ -1,6 +1,6 @@
 <img align="right" alt="coding" height= "70" width="110" src="https://thumbs.gfycat.com/BigGranularLamprey.webp">
 
-
+![snake gif](https://github.com/nehlinshanila/nehlinshanila/blob/output/github-contribution-grid-snake.svg)  
 _Hi, I'm ___Shanila Nehlin___, a junior year CSE student trying to gain sufficient knowledge in the programming field. I'm learning each and everyday and my current goal is to be proficient and to construct multiple projects related to Web-development and AI. I stockpile all my projects in github for future reference._ 
 
 <p><img float="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nehlinshanila&langs_count=100&show_icons=true&theme=tokyonight&title_color=fea9f7&text_color=a8b7ff&bg_color=1a1b27&hide_border=true&locale=en&layout=compact" alt="nehlinshanila" height="113em"/> <img float="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nehlinshanila&theme=tokyonight&hide_border=true" alt="nehlinshanila"  height="113em"/> <img float="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nehlinshanila&show_icons=true&theme=tokyonight&title_color=fea9f7&text_color=a8b7ff&bg_color=1a1b27&hide_border=true&locale=en" alt="nehlinshanila" height="113em"/>
@@ -30,8 +30,6 @@ _Hi, I'm ___Shanila Nehlin___, a junior year CSE student trying to gain sufficie
  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) 
  ![Krita](https://img.shields.io/badge/Krita-203759?style=flat-square&logo=krita&logoColor=EEF37B) 
 <img src="https://komarev.com/ghpvc/?username=nehlinshanila&label=Profile%20views&color=a36ca0&style=flat-square" alt="nehlinshanila"/>
-
-![snake gif](https://github.com/nehlinshanila/nehlinshanila/blob/output/github-contribution-grid-snake.svg)  
 
 🧷Connect With Me : 
 <a href="https://linkedin.com/in/nehlinshanila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nehlinshanila" height="23em" /></a>
