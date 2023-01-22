@@ -1,9 +1,14 @@
-![snake gif](https://github.com/nehlinshanila/nehlinshanila/blob/output/github-contribution-grid-snake.svg)  
-<img align="right" alt="coding" height= "70" width="110" src="https://thumbs.gfycat.com/BigGranularLamprey.webp">
+<img float="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nehlinshanila&langs_count=100&show_icons=true&theme=tokyonight&title_color=fea9f7&text_color=a8b7ff&bg_color=0D1117&hide_border=true&locale=en&layout=compact" alt="nehlinshanila" height="113em"/> <img float="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nehlinshanila&theme=tokyonight_duo&hide_border=true" alt="nehlinshanila"  height="113em"/> <img float="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nehlinshanila&show_icons=true&theme=tokyonight&title_color=fea9f7&text_color=a8b7ff&bg_color=0D1117&hide_border=true&locale=en" alt="nehlinshanila" height="113em"/>
 
+ <img align="right" alt="coding" height= "70" width="110" src="https://thumbs.gfycat.com/BigGranularLamprey.webp">
+
+<h4><em>Hi, I'm <strong>Shanila Nehlin</strong>, a junior year CSE student trying to gain sufficient knowledge in the programming field. I'm learning each and everyday and my current goal is to be proficient and to construct multiple projects related to Web-development and AI. I stockpile all my projects in github for future reference.<em></h4>
+
+<p><em>Hi, I'm <strong>Shanila Nehlin</strong>, a junior year CSE student trying to gain sufficient knowledge in the programming field. I'm learning each and everyday and my current goal is to be proficient and to construct multiple projects related to Web-development and AI. I stockpile all my projects in github for future reference.<em></p>
+ 
 _Hi, I'm ___Shanila Nehlin___, a junior year CSE student trying to gain sufficient knowledge in the programming field. I'm learning each and everyday and my current goal is to be proficient and to construct multiple projects related to Web-development and AI. I stockpile all my projects in github for future reference._ 
 
-<p><img float="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nehlinshanila&langs_count=100&show_icons=true&theme=tokyonight&title_color=fea9f7&text_color=a8b7ff&bg_color=0D1117&hide_border=true&locale=en&layout=compact" alt="nehlinshanila" height="113em"/> <img float="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nehlinshanila&theme=tokyonight_duo&hide_border=true" alt="nehlinshanila"  height="113em"/> <img float="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nehlinshanila&show_icons=true&theme=tokyonight&title_color=fea9f7&text_color=a8b7ff&bg_color=0D1117&hide_border=true&locale=en" alt="nehlinshanila" height="113em"/>
+ <img src="https://komarev.com/ghpvc/?username=nehlinshanila&label=Profile%20views&color=a36ca0&style=flat-square" alt="nehlinshanila"/>
 
 - **Programming Languages & Backend Development :**
  ![C](https://img.shields.io/badge/C-151824.svg?style=flat-square&logo=c&logoColor=C39BD3)
@@ -30,7 +35,6 @@ _Hi, I'm ___Shanila Nehlin___, a junior year CSE student trying to gain sufficie
  ![Blender](https://img.shields.io/badge/Blender-151824.svg?style=flat-square&logo=blender&logoColor=C39BD3) 
  ![Canva](https://img.shields.io/badge/Canva-151824.svg?style=flat-square&logo=Canva&logoColor=C39BD3) 
  ![Krita](https://img.shields.io/badge/Krita-151824?style=flat-square&logo=krita&logoColor=C39BD3) 
-<img src="https://komarev.com/ghpvc/?username=nehlinshanila&label=Profile%20views&color=a36ca0&style=flat-square" alt="nehlinshanila"/>
 
 🧷Connect With Me : 
 <a href="https://linkedin.com/in/nehlinshanila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nehlinshanila" height="23em" /></a>
@@ -39,4 +43,3 @@ _Hi, I'm ___Shanila Nehlin___, a junior year CSE student trying to gain sufficie
 <a href="https://www.facebook.com/shanila.nehlin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shanila.nehlin" height="23em" /></a>
 <a href="https://www.hackerrank.com/shanila_nehlin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shanila_nehlin" height="23em"  /></a>
 <a href="https://codeforces.com/profile/shanila.nehlin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shanila.nehlin" height="23em" /></a>
-</p>
