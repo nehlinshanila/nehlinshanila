@@ -6,7 +6,7 @@ _Hi, I'm ___Shanila Nehlin___, a junior year CSE student trying to gain sufficie
 
 
 
-<p><img float="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nehlinshanila&langs_count=100&show_icons=true&theme=tokyonight&title_color=fea9f7&text_color=a8b7ff&bg_color=0D1117&hide_border=true&locale=en&layout=compact" alt="nehlinshanila" height="180em"/> <img float="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nehlinshanila&show_icons=true&theme=tokyonight&title_color=fea9f7&text_color=a8b7ff&bg_color=0D1117&hide_border=true&locale=en" alt="nehlinshanila" height="180em"/>
+<p><img float="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nehlinshanila&langs_count=100&show_icons=true&theme=tokyonight&title_color=fea9f7&text_color=a8b7ff&bg_color=0D1117&hide_border=true&locale=en&layout=compact" alt="nehlinshanila" height="160em"/> <img float="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nehlinshanila&show_icons=true&theme=tokyonight&title_color=fea9f7&text_color=a8b7ff&bg_color=0D1117&hide_border=true&locale=en" alt="nehlinshanila" height="160em"/>
 
 
 
