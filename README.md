@@ -2,13 +2,11 @@
 
  <img align="right" alt="coding" height= "70" width="110" src="https://thumbs.gfycat.com/BigGranularLamprey.webp">
 
-<h4><em>Hi, I'm <strong>Shanila Nehlin</strong>, a junior year CSE student trying to gain sufficient knowledge in the programming field. I'm learning each and everyday and my current goal is to be proficient and to construct multiple projects related to Web-development and AI. I stockpile all my projects in github for future reference.<em></h4>
-
-<p><em>Hi, I'm <strong>Shanila Nehlin</strong>, a junior year CSE student trying to gain sufficient knowledge in the programming field. I'm learning each and everyday and my current goal is to be proficient and to construct multiple projects related to Web-development and AI. I stockpile all my projects in github for future reference.<em></p>
+<h4 style="background-color:powderblue;"><em>Hi, I'm <strong>Shanila Nehlin</strong>, a junior year CSE student trying to gain sufficient knowledge in the programming field. I'm learning each and everyday and my current goal is to be proficient and to construct multiple projects related to Web-development and AI. I stockpile all my projects in github for future reference.<em></h4>
  
 _Hi, I'm ___Shanila Nehlin___, a junior year CSE student trying to gain sufficient knowledge in the programming field. I'm learning each and everyday and my current goal is to be proficient and to construct multiple projects related to Web-development and AI. I stockpile all my projects in github for future reference._ 
 
- <img src="https://komarev.com/ghpvc/?username=nehlinshanila&label=Profile%20views&color=a36ca0&style=flat-square" alt="nehlinshanila"/>
+ <img src="https://komarev.com/ghpvc/?username=nehlinshanila&label=Profile%20views&color=2F3150&style=flat-square" alt="nehlinshanila"/>
 
 - **Programming Languages & Backend Development :**
  ![C](https://img.shields.io/badge/C-151824.svg?style=flat-square&logo=c&logoColor=C39BD3)
