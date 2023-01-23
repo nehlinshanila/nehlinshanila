@@ -1,5 +1,5 @@
 _Hi, I'm ___Shanila Nehlin___, a junior year CSE student trying to gain sufficient knowledge in the programming field. I'm learning each and everyday and my current goal is to be proficient and to construct multiple projects related to Web-development and AI. I stockpile all my projects in github for future reference._ 
-#
+
 <p><img float="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nehlinshanila&langs_count=100&show_icons=true&theme=tokyonight&title_color=fea9f7&text_color=a8b7ff&bg_color=0D1117&hide_border=true&locale=en&layout=compact" alt="nehlinshanila" height="113em"/><img float="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nehlinshanila&theme=tokyonight_duo&hide_border=true" alt="nehlinshanila" height="112em"/><img float="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nehlinshanila&show_icons=true&theme=tokyonight&title_color=fea9f7&text_color=a8b7ff&bg_color=0D1117&hide_border=true&locale=en" alt="nehlinshanila" height="112em"/></p>
 
 - **Programming Languages & Backend Development :**
@@ -29,8 +29,6 @@ _Hi, I'm ___Shanila Nehlin___, a junior year CSE student trying to gain sufficie
  ![Krita](https://img.shields.io/badge/Krita-151824?style=flat-square&logo=krita&logoColor=C39BD3) 
  
  <img align="right" alt="coding" height= "70" width="110" src="https://thumbs.gfycat.com/BigGranularLamprey.webp">
- 
-#
  <img src="https://komarev.com/ghpvc/?username=nehlinshanila&label=Profile%20views&color=2F3150&style=flat-square" alt="nehlinshanila"/>
 🧷Connect With Me : 
 <a href="https://linkedin.com/in/nehlinshanila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nehlinshanila" height="23em" /></a>
