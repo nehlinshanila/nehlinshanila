@@ -31,9 +31,7 @@ _Hi, I'm ___Shanila Nehlin___, a junior year CSE student trying to gain sufficie
  ![Blender](https://img.shields.io/badge/Blender-151824.svg?style=flat-square&logo=blender) 
  ![Canva](https://img.shields.io/badge/Canva-151824.svg?style=flat-square&logo=Canva) 
  ![Krita](https://img.shields.io/badge/Krita-151824?style=flat-square&logo=krita) 
- 
  <img src="https://komarev.com/ghpvc/?username=nehlinshanila&label=Profile%20views&color=2F3150&style=flat-round" alt="nehlinshanila"/>
- #
 <a href="https://linkedin.com/in/nehlinshanila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nehlinshanila" height="23em" /></a>
 <a href="https://www.instagram.com/nehlinstudio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nehlinstudio/" height="23em" /></a>
 <a href="https://discord.gg/shanila#8501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shanila#8501" height="23em" /></a>
