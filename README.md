@@ -1,4 +1,4 @@
-_Hi, I'm ___Shanila Nehlin___, a junior year CSE student trying to gain sufficient knowledge in the programming field. I'm learning each and everyday and my current goal is to be proficient and to construct multiple projects related to Web-development and AI. I stockpile all my projects in github for future reference._ 
+_Hi, I'm ___Shanila Nehlin___, a junior year CSE student trying to gain sufficient knowledge in the programming field. I'm learning each and everyday and my current goal is to be proficient and to construct multiple projects related to Software/Web-development and AI. I stockpile all my projects in github for future reference._ 
  <img align="right" alt="coding" height= "70" width="110" src="https://thumbs.gfycat.com/BigGranularLamprey.webp">
 
 #
