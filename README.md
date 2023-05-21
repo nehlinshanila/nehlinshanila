@@ -17,12 +17,13 @@ _Hi, I'm ___Shanila Nehlin___, a junior year CSE student trying to gain sufficie
  ![HTML](https://img.shields.io/badge/HTML5-151824?style=flat-square&logo=html5)
  ![CSS3](https://img.shields.io/badge/CSS3-151824?style=flat-square&logo=css3&logoColor=EF629F) 
  ![Bootstrap](https://img.shields.io/badge/Bootstrap-151824?style=flat-square&logo=bootstrap)
- ![React.js](https://img.shields.io/badge/React.js-151824?style=flat-square&logo=react)
  ![Threejs](https://img.shields.io/badge/Threejs-151824?style=flat-square&logo=three.js)
  ![SASS](https://img.shields.io/badge/SASS-151824.svg?style=flat-square&logo=SASS)
  ![Markdown](https://img.shields.io/badge/Markdown-151824?style=flat-square&logo=markdown&logoColor=44A08D)
 - **Framework & Database :**
- ![Django](https://img.shields.io/badge/Django-151824.svg?style=flat-square&logo=django&logoColor=614385) 
+ ![Django](https://img.shields.io/badge/Django-151824.svg?style=flat-square&logo=django&logoColor=614385)
+ ![React.js](https://img.shields.io/badge/React.js-151824?style=flat-square&logo=react)
+ ![React.native](https://img.shields.io/badge/React.native-151824?style=flat-square&logo=react)
  ![MySQL](https://img.shields.io/badge/MySQL-151824?style=flat-square&logo=mysql)
  ![SQLite](https://img.shields.io/badge/SQLite-151824?style=flat-square&logo=sqlite&logoColor=77A1D3)
 - **Softwares :**
