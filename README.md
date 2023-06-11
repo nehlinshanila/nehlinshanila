@@ -2,7 +2,7 @@ _Hi, I'm ___Shanila Nehlin___, a junior year CSE student trying to gain sufficie
  <img align="right" alt="coding" height= "70" width="110" src="https://thumbs.gfycat.com/BigGranularLamprey.webp">
 
 #
-<p><img float="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nehlinshanila&langs_count=100&show_icons=true&theme=tokyonight_duo&title_color=fea9f7&text_color=a8b7ff&bg_color=0D1117&hide_border=true&locale=en&layout=compact" alt="nehlinshanila" height="113em"/><img float="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nehlinshanila&theme=tokyonight_duo&hide_border=true" alt="nehlinshanila" height="112em"/><img float="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nehlinshanila&show_icons=true&theme=tokyonight_duo&title_color=fea9f7&text_color=a8b7ff&bg_color=0D1117&hide_border=true&locale=en" alt="nehlinshanila" height="112em"/></p>
+<p><img float="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nehlinshanila&langs_count=100&show_icons=true&theme=tokyonight_duo&title_color=fea9f7&text_color=a8b7ff&bg_color=0D1117&hide_border=true&locale=en&layout=compact" alt="nehlinshanila" height="113em"/><img float="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nehlinshanila&theme=tokyonight_duo&hide_border=true" alt="nehlinshanila" height="112em"/><img float="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nehlinshanila&show_icons=true&theme=tokyonight_duo&title_color=fea9f7&text_color=a8b7ff&bg_color=0D1117&hide_border=true&locale=en" alt="nehlinshanila" height="112em"/></p>
 
 #
 
