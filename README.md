@@ -6,7 +6,7 @@
  <details close >
  <summary><h4>SKILLS</h4></summary>
 <table>
- <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehlinshanila&layout=donut-vertical&langs_count=10&theme=tokyonight_duo&title_color=fea9f7&text_color=a8b7ff&bg_color=0D1117&hide_border=true&locale=en" alt="nehlinshanila" height= "100%" width="100%"/>
+ <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehlinshanila&layout=donut-vertical&langs_count=10&theme=tokyonight_duo&title_color=fea9f7&text_color=a8b7ff&bg_color=0D1117&hide_border=true&locale=en" alt="nehlinshanila" height= "95%" width="95%"/>
   
 <td>
 
@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/Krita-151824?style=flat-square&logo=krita">
     
 
-<p><img float="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nehlinshanila&theme=tokyonight_duo&hide_border=true" alt="nehlinshanila" height="110em"/><img float="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nehlinshanila&show_icons=true&theme=tokyonight_duo&title_color=fea9f7&text_color=a8b7ff&bg_color=0D1117&hide_border=true&locale=en" alt="nehlinshanila" height="110em"/></p>
+<p><img float="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nehlinshanila&theme=tokyonight_duo&hide_border=true" alt="nehlinshanila" height="105em"/><img float="left" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nehlinshanila&show_icons=true&theme=tokyonight_duo&title_color=fea9f7&text_color=a8b7ff&bg_color=0D1117&hide_border=true&locale=en" alt="nehlinshanila" height="105em"/></p>
 
 </td>
 </table>
