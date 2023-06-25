@@ -2,9 +2,8 @@
 
 <div height="300" width="50"></div>
 
-
  <details close >
- <summary><h4>SKILLS</h4></summary>
+ <summary><h3>SKILLS:mortar_board:</h3></summary>
 <table>
  <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehlinshanila&layout=donut-vertical&langs_count=10&theme=tokyonight_duo&title_color=fea9f7&text_color=a8b7ff&bg_color=0D1117&hide_border=true&locale=en" alt="nehlinshanila" height= "100%" width="100%"/>
   
@@ -47,7 +46,7 @@
 </table>
 </details>
   <details close>
-  <summary><h4>PROJECTS</h4></summary>
+  <summary><h3>PROJECTS</h3>:closed_book:</summary>
 
 | Project | Description |
 | --- | --- |
@@ -58,7 +57,7 @@
 
 </details>
   <details close>
-  <summary><h4>FIND ME</h6></summary>
+  <summary><h3>FIND ME</h3>:computer:</summary>
  
 <a href="https://linkedin.com/in/nehlinshanila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nehlinshanila" height="23em" /></a>
 <a href="https://www.instagram.com/nehlinstudio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nehlinstudio/" height="23em" /></a>
