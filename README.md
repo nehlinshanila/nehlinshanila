@@ -68,4 +68,4 @@
 
 </details>
 
-<img align="left" alt="coding" height= "100" width="150" src="https://thumbs.gfycat.com/BigGranularLamprey.webp">
+
