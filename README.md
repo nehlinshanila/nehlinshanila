@@ -5,7 +5,7 @@
  <details close >
  <summary>SKILLS:mortar_board:</summary>
 <table>
- <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehlinshanila&layout=donut-vertical&langs_count=12&theme=tokyonight_duo&title_color=fea9f7&text_color=a8b7ff&bg_color=0D1117&hide_border=true&locale=en" alt="nehlinshanila" height= "100%" width="100%"/>
+ <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehlinshanila&hide=jupyter%20notebook,html&layout=donut-vertical&langs_count=12&theme=tokyonight_duo&title_color=fea9f7&text_color=a8b7ff&bg_color=0D1117&hide_border=true&locale=en" alt="nehlinshanila" height= "100%" width="100%"/>
   
 <td>
 
