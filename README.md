@@ -1,4 +1,4 @@
-<img align="left" alt="coding" height= "300" width="580" src="./Animation.gif">
+<img align="left" alt="coding" height= "140" width="600" src="./Animation2.gif">
 
 <div height="300" width="50"></div>
 
