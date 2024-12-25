@@ -50,6 +50,7 @@
 
 | Project | Description |
 | --- | --- |
+| <h2 align="center"><a href="https://github.com/nehlinshanila/TCRP-Transition-Complexity-Reward-Priority-.git">TCRP-Transition-Complexity-Reward-Priority</a></h2> | <p style="background-color: #f1f1f1;">Novel reinforcement learning algorithm designed to enhance experience replay efficiency by combining transition complexity and reward magnitude into a unified prioritization metric.</p> |
 | <h2 align="center"><a href="https://github.com/nehlinshanila/BulletDodge-Reinforcement-Learning-Model--CSE465">Bullet Dodge: Env To Test The Impact Of Different Neural Architectures </a></h2> | <p style="background-color: #f1f1f1;">Reinforcement learning agent in a challenging arena, exploring the influence of environmental factors and neural network architectures on optimal learning strategies in dynamic scenarios.</p> |
 | <h2 align="center"><a href="https://github.com/nehlinshanila/Y-ALO-AI-Tracker">Y-ALO: AI Infused Dynamic Menstrual Cycle Tracking System</a></h2> | <p style="background-color: #f1f1f1;">Menstrual health & tracking app with AI integrated chatbots aiding rural women with cycle monitoring, notifications, appointments, personalized generated advice, Bengali language support, fostering healthier lives.</p> |
 | <h2 align="center"><a href="https://github.com/nehlinshanila/Epicity">Epicity.pen: Doodling just got epic </a></h2> | <p style="background-color: #f1f1f1;"> Application that transforms ordinary doodles into realistic vibrant images.</p> |
